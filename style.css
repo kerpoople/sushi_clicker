@@ -1,0 +1,16 @@
+body {
+  background-color: #ff9999;
+  color: #fff;
+  text-align: center;
+}
+
+p {
+
+
+}
+
+.store {
+  display: inline-block;
+  text-align: center;
+  margin: 0 15px 0 15px;
+}
